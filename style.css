@@ -5,8 +5,9 @@ body{
 
 .profile_picture{
     top: 29px;
+    overflow: hidden;
+    perspective: 1px;
     border-radius: 50%;
-    border-collapse: separate; 
 }
 
 #name{
