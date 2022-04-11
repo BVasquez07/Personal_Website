@@ -5,7 +5,7 @@ body{
 
 #profile_picture{
     top: 29px;
-    border: 50%;
+    border-radius: 50%;
 }
 
 #name{
