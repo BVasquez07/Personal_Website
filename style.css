@@ -4,9 +4,9 @@ body{
   }
 
 #profile{
-  position: top: 29px;
   overflow: hidden;
   border-radius: 100px;
+  position: top: 29px;
 }
 
 
