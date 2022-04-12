@@ -3,7 +3,7 @@ body{
     height: 120vh;
   }
 
-#profile_picture{
+.profile_picture{
     border-radius: 50%;
 }
 
