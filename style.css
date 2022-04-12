@@ -3,11 +3,6 @@ body{
     height: 120vh;
   }
 
-#profile_picture{
-    top: 29px;
-    overflow: hidden;
-    border-radius: 50%;
-}
 
 #name{
     top: 203px;
