@@ -3,7 +3,7 @@ body{
     height: 120vh;
   }
 
-img{
+#profile{
     border-radius: 50%;
 }
 
@@ -29,7 +29,6 @@ img{
 
 #social_links{
     word-spacing: 30px;
-    border-radius: 0%;
 
 }
 
