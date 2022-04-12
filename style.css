@@ -3,6 +3,10 @@ body{
     height: 120vh;
   }
 
+#profile_picture{
+    border-radius: 50%;
+}
+
 
 #name{
     top: 203px;
